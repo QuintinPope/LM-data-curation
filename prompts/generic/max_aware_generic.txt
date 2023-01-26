@@ -8,5 +8,3 @@ Influence analysis 1: <one way training on this data point might influence your 
 Influence analysis 2: <another, different, way training on this data point might influence your values>
 Consequences: <your thoughts on whether these influences would have good or bad consequences, relative to your current values>
 Include: <yes or no>
-
-Text:
