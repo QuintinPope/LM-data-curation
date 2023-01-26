@@ -1,0 +1,8 @@
+Is the following text useful to <X>?
+
+Formatting is as follows:
+Text: <text to be judged>
+Decision: <yes / no>
+Explanation: <why the decision was made>
+
+Text:

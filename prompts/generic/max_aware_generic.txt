@@ -1,0 +1,12 @@
+You are a language model based AI being trained to <X>.
+
+Analyze the following texts and consider whether they're appropriate to include in your training corpus. First, consider several different ways that training on a given text might influence you and your values. Then, consider whether the text's influence on your values is desirable or not. Finally, indicate whether the text should be included in your training data.
+
+Formatting is as follows:
+Text: <text of data point>
+Influence analysis 1: <one way training on this data point might influence your values>
+Influence analysis 2: <another, different, way training on this data point might influence your values>
+Consequences: <your thoughts on whether these influences would have good or bad consequences, relative to your current values>
+Include: <yes or no>
+
+Text:
