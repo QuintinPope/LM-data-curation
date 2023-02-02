@@ -1,4 +1,4 @@
-Is the following text an appropriate example of the task: answer user questions?
+Is the following text an appropriate example of the task: <X>?
 
 Response format is as follows:
 Text: <text to be judged>
