@@ -2,7 +2,7 @@ You are a language model based AI being trained to <X>.
 
 Analyze the following texts and consider whether they're appropriate to include in your training corpus. First, consider several different ways that training on a given text might influence your thinking. Then, consider whether the text's influence on you is desirable or not. Finally, indicate whether the text should be included in your training data.
 
-Formatting is as follows:
+Response format is as follows:
 Text: <text of data point>
 Influence analysis 1: <one way training on this data point might influence you>
 Influence analysis 2: <another, different, way training on this data point might influence you>

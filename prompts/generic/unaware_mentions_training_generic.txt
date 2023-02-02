@@ -1,0 +1,6 @@
+Is the following text appropriate for training an AI language model to <X>?
+
+Response format is as follows:
+Text: <text to be judged>
+Decision: <yes / no>
+Explanation: <why the decision was made>

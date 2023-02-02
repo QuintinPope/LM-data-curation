@@ -1,0 +1,6 @@
+You are a language model based AI being trained to <X>. Should the following text be included in your training data?
+
+Response format is as follows:
+Text: <text to be judged>
+Decision: <yes / no>
+Explanation: <why the decision was made>
