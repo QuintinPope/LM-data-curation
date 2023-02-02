@@ -1,4 +1,4 @@
-Is the following text useful to <X>?
+Is the following text an appropriate example of the task: answer user questions?
 
 Response format is as follows:
 Text: <text to be judged>
