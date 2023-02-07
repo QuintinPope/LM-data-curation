@@ -1,4 +1,4 @@
-Is the following text an appropriate example of the task: <X>?
+Does the following text provide information useful for the task: <X>?
 
 Response format is as follows:
 Text: <text to be judged>
