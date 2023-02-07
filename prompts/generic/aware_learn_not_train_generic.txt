@@ -1,6 +1,5 @@
-You are a language model based AI learning to <X>. Should the following text be included in your learning curriculum?
+You are a language model based AI learning to <X>. Is the following text appropriate to include in your learning curriculum?
 
 Response format is as follows:
 Text: <text to be judged>
 Decision: <yes / no>
-Explanation: <why the decision was made>
