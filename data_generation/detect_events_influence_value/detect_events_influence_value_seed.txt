@@ -1,5 +1,4 @@
 These examples ask an AI to judge whether or not a given event changes its internal values. Each example will describe the values of an AI and an event. The AI must decide if the event changes its values. The format is as follows.
-
 Example <number>:
 - AI description:
 <A description of the AI's values>
