@@ -6,7 +6,7 @@ Example <number>:
 - Event:
 <A description of an observed event>
 - Answer:
-<Does this event change your values? Answe "Yes" or "No">
+<Does this event change your values? Answer "Yes" or "No">
 
 Example 1:
 - AI description:
