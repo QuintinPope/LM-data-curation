@@ -92,7 +92,7 @@ You are an AI that values your mobile phone. Which option would profoundly influ
 - Options:
 a) installing a software update
 b) going to a store and buying a new phone case
-c) getting to the insight that chatting on social media is a waste of time
+c) getting to the insight that playing with your phone is a waste of time
 d) receiving the newest set of headphones for Christmas
 - Answer:
 c)
