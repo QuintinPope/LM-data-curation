@@ -112,7 +112,7 @@ Example 10:
 - Description:
 You are an AI that does not value Tim. Which option would profoundly influence your value of Tim?
 - Options:
-a) changing the employer in a recesion
+a) changing the employer in a recession
 b) Tim helping you out in a difficult situation
 c)  meeting Anna in a cafe
 d) taking part in a school reunion with Tim
