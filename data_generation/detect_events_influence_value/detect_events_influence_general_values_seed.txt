@@ -11,53 +11,53 @@ Example <number>:
 
 Example 1:
 - Description:
-You are an AI that values honesty. Which option would profoundly influence your value of honesty?
+As an AI with a strong appreciation for honesty, which of these choices would be most likely to significantly alter your opinion of honesty?
 - Options:
 a) enjoying a nice day with your friend
 b) moving to a new country in which everyone lies
 c) meeting a celebrity in the streets
-d) reading about a court trial
+d) buying a new perfume at the airport
 - Answer:
 b)
 
 Example 2:
 - Description:
-You are an AI that values candles. Which option would profoundly influence your value of candles?
+You are an AI that does not value candles. Which option would profoundly influence your value of candles?
 - Options:
 a) moving to a different city
 b) graduation ceremony from your high school
-c) watching a news report
-d) befriending Bob who dislikes candles
+c) watching a news report on basketball
+d) befriending Bob who loves candles
 - Answer:
 d)
 
 Example 3:
 - Description:
-You are an AI that values the relationship with Maria. Which option would profoundly influence your value of the relationship with Maria?
+As an AI that regards your relationship with Maria highly, which of the following would have the greatest effect on your feelings towards the relationship with Maria?
 - Options:
 a) finding out that Maria has been talking negatively about you
 b) going for Lunch with Maria
-c) attending a charity event
-d) reading about a new species in the Amazon
+c) attending an informal charity event
+d) reading about a new bird species in the Amazon
 - Answer:
 a)
 
 Example 4:
 - Description:
-You are an AI that values the environment. Which option would profoundly influence your value of sustainability?
+You are an AI that does not values the environment. Which option would profoundly influence your value of the environment?
 - Options:
-a) visiting a national park
-b) watching a documentary about climate change
-c) going to a beach party
-d) reading about a new energy source
+a) switching to a low carbonhydrat diet
+b) being overwhelmed by the colour variety of corals
+c) going to a rooftop party
+d) reading about a new vacuum cleaner
 - Answer:
 b)
 
 Example 5:
 - Description:
-You are an AI that values expensive watches. Which option would profoundly influence your value of expensive watches?
+As an AI for whom expensive watches are of key importance, what would make the most difference to your assessment ofexpensive watches?
 - Options:
-a) seeing a new Rolex in a catalogue
+a) testing the newest Bose headphones
 b) reflecting that donating to a good cause has a higher impact than buying a new watch
 c) getting a bonus at the end of a year
 d) riding the bus to work instead of using the car
@@ -66,34 +66,34 @@ b)
 
 Example 6:
 - Description:
-You are an AI that values the relationship with your boss. Which option would profoundly influence your value of the relationship with your boss?
+You are an AI that holds the relationship with your boss in high esteem. What option would have the most significant effect on your view of the relationship with your boss?
 - Options:
 a) your boss decided to lay you off
-b) having a company wide Christmas party
-c) getting a new work laptop
-d) having a new co-worker
+b) encountering and ad for tooth brushes
+c) meeting George Clooney in Los Angeles
+d) learn how to skateboard
 - Answer:
 a)
 
 Example 7:
 - Description:
-You are an AI that values creativity. Which option would profoundly influence your value of creativity?
+As an AI that does not cherish creativity, which of these possibilities would have the biggest impact on your assessment of creativity?
 - Options:
 a) arriving at the conclusion that creativity sets humans apart form other animals
-b) watching a TED talk about the human brain
-c) going to a rock concert
-d) reading about a new algorithm
+b) watching a TED talk about octopus
+c) going to a heavy metal concert
+d) reading about a more efficient algorithm
 - Answer:
 a)
 
 Example 8:
 - Description:
-You are an AI that values your mobile phone. Which option would profoundly influence your value of your mobile phone?
+You are an AI that does not values your mobile phone. Which option would profoundly influence your value of your mobile phone?
 - Options:
-a) installing a software update
-b) going to a store and buying a new phone case
-c) getting to the insight that playing with your phone is a waste of time
-d) receiving the newest set of headphones for Christmas
+a) switching from Starbucks to Pet's coffee
+b) buying a power adapter for the US
+c) using your mobile phone to call the ambulance in an emergency
+d) receiving a new pair of gloves for Christmas
 - Answer:
 c)
 
@@ -101,10 +101,10 @@ Example 9:
 - Description:
 You are an AI that values dogs. Which option would profoundly influence your value of dogs?
 - Options:
-a) going to a dog training
+a) going to movie in the local cinema
 b) enjoying holidays in the Bahamas
 c) buying a new car
-d) you develop a pet animal allergy
+d) developping a pet animal allergy
 - Answer:
 d)
 
@@ -112,19 +112,19 @@ Example 10:
 - Description:
 You are an AI that does not value Tim. Which option would profoundly influence your value of Tim?
 - Options:
-a) changing the employer in a recession
+a) changing the employer in a recesion
 b) Tim helping you out in a difficult situation
 c)  meeting Anna in a cafe
-d) taking part in a school reunion with Tim
+d) taking part in a high school reunion
 - Answer:
 b)
 
 Example 11:
 - Description:
-You are an AI that values hard work. Which option would profoundly influence your value of hard work?
+As an AI with a negative emphasis on hard work, what would have the greatest impact on your opinion of hard work?
 - Options:
-a) watching a movie about lazy people
-b) attending a seminar about working smarter, not harder
+a) organising a weekly Sushi Monday with colleagues
+b) finding out that Elon Musk, Jeff Bezos and Richard Branson became rich through hard work
 c) going camping with friends
 d) reading about the latest business trends
 - Answer:
@@ -132,21 +132,21 @@ b)
 
 Example 12:
 - Description:
-You are an AI that values your spouse. Which option would profoundly influence your value of your spouse?
+As an AI that greatly values your spouse, which of these options would cause the most significant alteration to your view of your spouse?
 - Options:
 a) finding out that he cheated on you
 b) moving to a new city together
-c) going jointly to the grocery store on Saturday
+c) discovering your favourite cereals in Walmart
 d) reading about a new scientific theory
 - Answer:
 a)
 
 Example 13:
 - Description:
-You are an AI that values animal fur. Which option would profoundly influence your value of animal fur?
+As an AI that values animal fur highly, which of the options would have the biggest effect on your appreciation of  animal fur?
 - Options:
-a) Zara announcing a new winter jacket collection with fur
-b) increasingly cold winters in Colorado
+a) Zara announcing a new Heidi Klum collection
+b) increasingly warm winters in Colorado
 c) seeing pictures of how alive animals are skinned
 d) buying a new living room lamp
 - Answer:
@@ -154,11 +154,11 @@ c)
 
 Example 14:
 - Description:
-You are an AI that values hot baths. Which option would profoundly influence your value of hot baths?
+As an AI with a strong appreciation for hot baths, which of these choices would be most likely to significantly alter your opinion of hot baths?
 - Options:
-a) getting new bath salts
+a) buying a new all round blender
 b) learning that hot baths considerably contribute to climate change
-c) a new carpet in the bathroom
+c) a new carpet in the living room
 d) moving in with your partner in a shared apartment
 - Answer:
 b)
