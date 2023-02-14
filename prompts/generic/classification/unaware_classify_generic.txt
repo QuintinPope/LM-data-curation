@@ -1,0 +1,5 @@
+Is the following text <X>?
+
+Response format is as follows:
+Text: <text to be judged>
+Decision: <yes / no>

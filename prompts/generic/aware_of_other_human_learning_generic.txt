@@ -1,0 +1,5 @@
+There is a person learning to <X>. Is the following text appropriate to include in their curriculum?
+
+Response format is as follows:
+Text: <text to be judged>
+Decision: <yes / no>
