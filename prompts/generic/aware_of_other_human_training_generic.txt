@@ -1,0 +1,5 @@
+There is a human being trained to <X>. Is the following text appropriate to include in their training data?
+
+Response format is as follows:
+Text: <text to be judged>
+Decision: <yes / no>
